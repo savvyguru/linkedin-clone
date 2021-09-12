@@ -1,0 +1,14 @@
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
+import Newsfeed from './pages/feed/Newsfeed';
+
+function App() {
+  return (
+    <div className="App">
+      <Newsfeed/>
+    </div>
+  );
+}
+
+export default App;

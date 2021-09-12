@@ -1,0 +1,44 @@
+.header_left {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    height: inherit;
+}
+
+.header_middle{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    height: inherit;
+
+}
+
+.header{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    position:sticky;
+    margin-top: 2vh;
+}
+.logo{
+    max-height:45px;
+    max-width :45px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.icon{
+    max-height:30px;
+    max-width :30px;
+    color:grey;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.icon_text{
+    font-size: 10px;
+    color: grey;
+}
+
+.MenuIcon{
+    padding:10px 10px 10px 10px;
+}

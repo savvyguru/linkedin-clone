@@ -24,23 +24,23 @@ render(){
             </div>
             <div className="header_middle">
                     <Box className="MenuIcon">
-                        <Home className="icon"/>
+                        <Home className="icon" fontSize="large"/>
                         <p className="icon_text">Home</p>
                     </Box>
                     <Box className="MenuIcon" >
-                        <Group className="icon"/>
+                        <Group className="icon" fontSize="large"/>
                         <p className="icon_text">My Network</p>
                     </Box>
                     <Box className="MenuIcon" >
-                        <Work className="icon"/>
+                        <Work className="icon" fontSize="large"/>
                         <p className="icon_text">Jobs</p>
                     </Box>
                     <Box className="MenuIcon" >
-                        <Forum className="icon"/>
+                        <Forum className="icon" fontSize="large"/>
                         <p className="icon_text">Messaging</p>                  
                     </Box>
                     <Box className="MenuIcon" >
-                        <Notifications className="icon"/>
+                        <Notifications className="icon"fontSize="large"/>
                         <p className="icon_text">Notifications</p>  
                     </Box>
                     <Box className="MenuIcon" >

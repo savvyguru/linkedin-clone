@@ -1,0 +1,51 @@
+.post{
+    background-color: white;
+    width: 40%;
+    margin :auto;
+    border-radius: 8px 8px;
+    margin-top: 10px;
+
+}
+
+.name {
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+.title {
+    font-size: 12px;
+}
+.description{
+    font-size: 14px;
+    width: 90%;
+    margin: auto;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.profilepic{
+    border-radius: 100px 100px;
+    max-width : 60px; 
+    max-height: 60px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+
+.profile_descriptor{
+    width: 300px;
+    margin-left: 10px;
+    margin-bottom : 10px;
+    display:flex;
+    flex-direction:row;
+
+}
+
+.title_header{
+    flex-direction:column;
+    margin-left: 10px;
+}
+
+.attachments{
+    width:100%;
+}

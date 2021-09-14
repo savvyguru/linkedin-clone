@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Newsfeed from './pages/feed/Newsfeed';
+import Newsfeed from './components/newsfeed/Newsfeed';
 
 function App() {
   return (

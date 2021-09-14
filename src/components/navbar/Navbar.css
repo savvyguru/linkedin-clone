@@ -18,7 +18,9 @@
     flex-direction:row;
     justify-content: space-around;
     position:sticky;
-    margin-top: 2vh;
+    background-color: white;
+    padding-bottom: 5px;
+    padding-top:5px;
 }
 .logo{
     max-height:45px;
@@ -37,8 +39,10 @@
 .icon_text{
     font-size: 10px;
     color: grey;
+    margin-top: 0px;
 }
 
 .MenuIcon{
-    padding:10px 10px 10px 10px;
+    padding-left:10px;
+    padding-right:10px;
 }
